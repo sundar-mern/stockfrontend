@@ -1,7 +1,6 @@
 # Login Credentials
-
-# Username: ranjith
-# Password: 123
+Username: ranjith
+Password: 123
 
 # Getting Started with Create React App
 
